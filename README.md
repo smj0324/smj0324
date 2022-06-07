@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=MinjuSeo&animation=fadeIn&fontSize=40&fontColor=220052)
 <div align="center">
   
-### ✨Technology Stack✨
+## ✨Technology Stack✨
 
 </div>
 
