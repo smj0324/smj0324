@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=MinjuSeo&animation=fadeIn&fontSize=40&fontColor=220052)
+
 </div>
 <div align="center">
   
