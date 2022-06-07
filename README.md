@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=transparent&text=MinjuSeo&animation=fadeIn&fontSize=40&fontColor=220052)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=SeoMinju&animation=fadeIn&fontSize=40&fontColor=220052)
 
 </div>
 <div align="center">
