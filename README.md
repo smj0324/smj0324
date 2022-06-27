@@ -54,6 +54,7 @@ Here are some ideas to get you started:
 ### 💬 Contact 💬
 
 </div>
-email : smj0324@outlook.com 
+<div align="center">
+Email : smj0324@outlook.com 
 </div>
 
