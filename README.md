@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=plastic-square&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/C Sharp-239120?style=plastic-square&logo=C Sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-239120?style=plastic-square&logo=C Sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-1B365D?style=plastic-square&logo=Java&logoColor=white"/>
 </div>
 
@@ -36,10 +36,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=plastic-square&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/YOLO-00FFFF?style=plastic-square&logo=YOLO&logoColor=111111"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic-square&logo=PyTorch&logoColor=white"/>
-</div>
-<div align="center">
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=plastic-square&logo=Visual Studio Code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic-square&logo=Android&logoColor=white"/>
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=plastic-square&logo=firebase&logoColor=white"/>
