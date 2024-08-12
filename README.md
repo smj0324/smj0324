@@ -21,8 +21,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?height=250&type=waving&color=auto&text=Hello&fontSize=70&animation=fadeIn&fontAlignY=40&desc=minju's%20GitHub😄&descSize=20&fontColor=FFFFFF)
 </div> 
 
-<div align="center">
-                 
+<div align="center">          
   
 ### ✨Technology Stack✨
 [![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=potato0324)](https://solved.ac/potato0324)
@@ -54,3 +53,4 @@ Here are some ideas to get you started:
 Email : smj0324@hanyang.ac.kr
 </div>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmj0324&count_bg=%2374E2D2&title_bg=%23555555&icon=macys.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)       
