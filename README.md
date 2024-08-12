@@ -22,8 +22,10 @@ Here are some ideas to get you started:
 </div> 
 
 <div align="center">
+                 
   
 ### ✨Technology Stack✨
+[![solved.ac tier](http://mazassumnida.wtf/api/mini/generate_badge?boj=potato0324)](https://solved.ac/potato0324)
 
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=plastic-square&logo=Python&logoColor=white"/>
@@ -44,25 +46,6 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-
-### 🏆Award🏆
-
-**2024** Academic Excellence Award
-
-**2023** Excellence Paper Award / Generative AI-based interior recommendation service
-
-**2023** 1st Korea Haptics Conference Student Idea Contest / Encouragement Award
-
-**2022** 2021 Capstone Design Competition / the grand prize
-
-**2021** Embedded SW Competition WebOS Division / Award for President of Embedded SW Industry Association
-
-**2021** Dongyang Mirae EXPO / Excellence Award
-
-**2021** Technology Start-up Idea Competition / Encouragement Award
-
-**2020** Academic Excellence Scholarship
-</div>
 
 <div align="center">
 
