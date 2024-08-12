@@ -44,7 +44,69 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GitHub-181717?style=plastic-square&logo=GitHub&logoColor=white"/>
 </div>
 
-<div align="center">
+<div align="left">
+  
+## 🏆Award🏆
+
+**2024** Academic Excellence Award
+
+**2023** Excellence Paper Award / Generative AI-based interior recommendation service
+
+**2023** 1st Korea Haptics Conference Student Idea Contest / Encouragement Award
+
+**2022** 2021 Capstone Design Competition / the grand prize
+
+**2021** Embedded SW Competition WebOS Division / Award for President of Embedded SW Industry Association
+
+**2021** Dongyang Mirae EXPO / Excellence Award
+
+**2021** Technology Start-up Idea Competition / Encouragement Award
+
+**2020** Academic Excellence Scholarship
+  
+## 📑Project📑
+
+**2024** corporate task -Hexar (Mar. 2024~)
+
+**2024** LG_Haptics_Competition (AI-Powered Makeup Assistant for the Visually Impaired)  (Jul. 2024 ~ Aug. 2024)
+
+**2024** CAD Term project (Age-related-Macular-Degeneration-AMD-remote-treatment-system) (Apr. 2024 ~ Jun. 2024)
+
+**2023** Government Task (Proliferation of IoT sensors application through commercialization verification of AI-based CNC machine collision detection system) (Mar. 2023 ~ Oct. 2023)
+
+**2023** Automation Project (Interior recommendation web service using generation AI) (Mar. 2023 ~ Sep. 2023)
+
+**2022** K-StartUp (Moongchi) (Feb. 2022 ~ Apr. 2022)
+
+**2022** Capston Design (AI-based learning correction robot) (Dec. 2021 ~ May. 2022)
+
+**2021** corporate task -Roboi (Building AWS server and modifying Cura code) (Nov.2021 ~ Dec. 2021)
+
+**2021** OSS Contest (In To Mirror) (Jul. 2021 ~ Sep. 2021)
+
+**2021** Creative Project-Capstone Design Application (SmartFarm.ver2) (Jun. 2021 ~ Dec. 2021)
+
+**2021** ESW Contest_WebOS (Smart Control in Vehicle) (Jun. 2021 ~ Nov. 2021)
+
+**2021** Immersive camp (Tray organizer using robot arms) (Jun. 2021 ~ Jul. 2021)
+
+**2021** Creative Project-Capstone Design (Smart Farm .ver1) (Jan. 2021 ~ Jun. 2021)
+  
+## 📖Additional Experience📖
+
+**2022** Tutoring program / The role of teaching students about Firmware programming (Jul. 2022 ~ Aug. 2022)
+
+**2022** Tutoring program / The role of teaching students about Electrical Circuits and Experiments (Apr. 2022 ~ Jun. 2022)
+
+**2022** ToyProject- Macro Keyboard / Arduino board using atmel chip 32u4 is connected to PC through USB port and used as another keyboard (Jan. 2022)
+
+**2021** AWS based Deep Racer League / Building an Autonomous Driving Model - Build the best car model by reinforcing each course (Dec. 2021)
+
+**2021** Class Representative / 2nd year 2nd semester class representative (Sep.2021 ~ Dec. 2021)
+
+**2021** Tutoring program / The role of teaching students about Electrical Circuits and Experiments (Apr. 2021 ~ Jun. 2021)
+
+</div>
 
 <div align="center">
 
