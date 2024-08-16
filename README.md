@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 **2023** Excellence Paper Award / Generative AI-based interior recommendation service
 
-**2023** 1st Korea Haptics Conference Student Idea Contest / Encouragement Award
+**2023** 1st Korea Haptics Conference Hyundai_Haptics_Competition / Encouragement Award
 
 **2022** 2021 Capstone Design Competition / the grand prize
 
@@ -94,17 +94,17 @@ Here are some ideas to get you started:
   
 ## 📖Additional Experience📖
 
-**2022** Tutoring program / The role of teaching students about Firmware programming (Jul. 2022 ~ Aug. 2022)
+**2022** Tutoring program / Firmware programming (Jul. 2022 ~ Aug. 2022)
 
-**2022** Tutoring program / The role of teaching students about Electrical Circuits and Experiments (Apr. 2022 ~ Jun. 2022)
+**2022** Tutoring program / Electrical Circuits and Experiments (Apr. 2022 ~ Jun. 2022)
 
 **2022** ToyProject- Macro Keyboard / Arduino board using atmel chip 32u4 is connected to PC through USB port and used as another keyboard (Jan. 2022)
 
 **2021** AWS based Deep Racer League / Building an Autonomous Driving Model - Build the best car model by reinforcing each course (Dec. 2021)
 
-**2021** Class Representative / 2nd year 2nd semester class representative (Sep.2021 ~ Dec. 2021)
+**2021** Class Representative (Sep.2021 ~ Dec. 2021)
 
-**2021** Tutoring program / The role of teaching students about Electrical Circuits and Experiments (Apr. 2021 ~ Jun. 2021)
+**2021** Tutoring program / Electrical Circuits and Experiments (Apr. 2021 ~ Jun. 2021)
 
 </div>
 
